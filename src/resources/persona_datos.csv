@@ -1,0 +1,49 @@
+personas_nomb;personas_ape_pat;personas_ape_mat;personas_fec_nac;personas_tipo;personas_email;tasa_deposito;nombre_organizacion;contacto;telefono;direccion;fax
+Ricardo ;Jaña;Perez;2000-01-01;INACH*2012;rjana@inach.cl;0.113330298569053;Instituto Antártico Chileno (INACH);Ricardo Jaña;(61)229-8111;Plaza Muñoz Gamero 1055;(61)229-8100
+Jimena;Zamora;Perez;2000-01-01;Ser_ViU*2012;jzamora@minvu.cl;0.542301799636334;Servicio de Vivienda y Urbanismo (SERVIU);Jimena Zamora;(61)271-4477;Croacia 772;(61)271-4477
+Gobiernos;Regionales;Visitantes;2000-01-01;visitasgores;gores@gores.cl;0.595650470815599;Gobierno Regional de Magallanes (GORE);Administrador;56(61)220-3754;Bories 901 piso 4;56(61)220-3746
+Karina;Segovia;Perez;2000-01-01;Sernapesca*2012;ksegovia@sernapesca.cl;0.512653728947043;Servicio Nacional de Pesca (SERNAPESCA);Karina Segovia;(61)224-1668;21 de mayo 1490;(61)224-1142
+CRISTIAN;OYARZUN;VALDIVIA;1990-01-01;covsea;coyarzun.12@sea.gob.cl;0.943675837945193;Servicio de Evaluación Ambiental (SEA);Rodrigo Roman;(61)222-7036;Lautaro Navarro  363;(61)222-7446
+Ana Luisa;Tapia;Toro;2000-01-01;Ser_Agri*2012;ana.tapia@sag.gob.cl;0.907107621431351;SEREMI Agricultura;Ana Luisa Tapia Toro;(61)223-8576;Avda. Bulnes  0309;(61)223-8577
+Iván;Sasso;Perez;2000-01-01;Ser_Bnac*2012;isassog@mbienes.cl;0.489036721177399;SEREMI Bienes Nacionales;Iván Sasso;(61)274-6551;Avda. España 981;(61)274-6559
+Mauricio;Montaña;Perez;2000-01-01;Ser_Sal*2012;mauricio.montana@redsalud.gov.cl;0.7200614255853;SEREMI Salud;Mauricio Montaña;(61)229-1301;Balmaceda 661;(61)229-1300
+Pablo ;Tobar;Perez;2000-01-01;Ser_Mop*2012;pablo.tobar@mop.gov.cl;0.184193628840148;SEREMI Obras Públicas;Pablo Tobar;(61)261-2206;Croacia 772;(61)261-2207
+Francisco;Abarzúa;;2000-01-01;Mun_Puq*2012;sig@e-puntaarenas.cl;0.819875378161669;Municipalidad de Punta Arenas;Francisco Abarzúa;(61)220-0327;Plaza Muñoz Gamero 745;(61)220-0619
+Iván;De La Fuente;Perez;2000-01-01;Mun_Lag*2012;ivan.delafuente@mlagunablanca.cl;0.0966560137458146;Municipalidad de Laguna Blanca;Iván de la Fuentes;(61)231-1136;Villa Tehuelche, Km 100;(61)231-1136
+Rodrigo;Román;Perez;2000-01-01;SEIA*2012;rroman.12@sea.gob.cl;0.912122065667063;Servicio de Evaluación Ambiental (SEA);Rodrigo Roman;(61)222-7036;Lautaro Navarro  363;(61)222-7446
+CRISTIAN ;OYARZUN;V;1975-12-31;123;coyarzun.12@sea.gob.cl;0.0794649003073573;Servicio de Evaluación Ambiental (SEA);Rodrigo Roman;(61)222-7036;Lautaro Navarro  363;(61)222-7446
+Pablo ;Vidal;Perez;2000-01-01;Mun_Nat*2012;pabloproyectos@gmail.com;0.168877713847905;Municipalidad de Natales;Pablo Vidal;(61)220-9500;Eberhard 457;61)220-9502
+Javier;Vergara;Perez;2000-01-01;Ser_Des*2012;jvergara@desarrollosocial.cl;0.330372680909932;SEREMI Desarrollo Social;Javier Vergara;(61)220-3723;Bories 901  Piso 8-9;(61)224-7498
+DORIS;SANDOVAL;;1975-12-31;123;dsandoval.12@sea.gob.cl;0.806385990232229;Servicio de Evaluación Ambiental (SEA);Rodrigo Roman;(61)222-7036;Lautaro Navarro  363;(61)222-7446
+Ana;Tapia;Toro;2000-01-01;Sag*2012;ana.tapia@sag.gob.cl;0.0467040264047682;Servicio Agrícola y Ganadero (SAG);Ana Luisa Tapia Toro;(61)223-8571;Avda. Bulnes  0309;(61)223-8571
+Junji;Macelo Guerrero;Díaz;2012-12-02;Junji*2012;mpguerrero@junji.cl;0.482743457425386;SEREMI Educación;juan Carlos Aguilar;(61)274-0226;Ignacio Carrera Pinto  1259;(061)274-0200
+NELLY;NUÑEZ;;1975-12-31;123;nnunez.12@sea.gob.cl;0.65694882767275;Servicio de Evaluación Ambiental (SEA);Rodrigo Roman;(61)222-7036;Lautaro Navarro  363;(61)222-7446
+José Miguel;Sanchez;;2000-01-01;Mun_Gre*2012;jomisanchez@yahoo.com;0.257559278514236;Municipalidad de San Gregorio;José Miguel Sanchez;(61)234-2411;Punta Delgada;(61)234-2410
+Carolina ;Cordero ;Puebla;2012-08-22;Ser_Mab*2012;ccordero@mma.gob.cl;0.77482649218291;SEREMI Medio Ambiente;Carolina Cordero Puebla;(61)223-7495;Avda.  Bulnes 01040;(61)223-7495
+RODRIGO;R;;1975-10-31;menz7x;rroman.12@sea.gob.cl;0.745063044596463;Servicio de Evaluación Ambiental (SEA);Rodrigo Roman;(61)222-7036;Lautaro Navarro  363;(61)222-7446
+CARLOS;OJEDA;B;1975-12-31;123;cojeda.12@sea.gob.cl;0.528569390997291;Servicio de Evaluación Ambiental (SEA);Rodrigo Roman;(61)222-7036;Lautaro Navarro  363;(61)222-7446
+Administrador;Adevcom;;2012-01-01;VF349*2007;usuario@usuario.cl;0.68633050378412;Gobierno Regional de Magallanes (GORE);Administrador;56(61)220-3754;Bories 901 piso 4;56(61)220-3746
+Nancy ;Gomez;Muñoz;1969-06-20;123456;nancy.gomez@goremagallanes.cl;0.432082062121481;Gobierno Regional de Magallanes (GORE);Administrador;56(61)220-3754;Bories 901 piso 4;56(61)220-3746
+CRISTIAN;OYARZUN;VALDIVIA;1990-01-01;covsig;coyarzun.12@sea.gob.cl;0.488032059278339;Servicio de Evaluación Ambiental (SEA);Rodrigo Roman;(61)222-7036;Lautaro Navarro  363;(61)222-7446
+DORIS;SALDOVAL;MIRANDA;1990-01-01;dsmsig;dsandoval.12@sea.go.cl;0.917113066650927;Servicio de Evaluación Ambiental (SEA);Rodrigo Roman;(61)222-7036;Lautaro Navarro  363;(61)222-7446
+NELLY;NUÑEZ;MIRANDA;1990-01-01;nnmsea;nnunez.12@sea.gob.cl;0.96370240394026;Servicio de Evaluación Ambiental (SEA);Rodrigo Roman;(61)222-7036;Lautaro Navarro  363;(61)222-7446
+CARLOS ;OJEDA;BARRIA;2013-09-11;cojeda;cojeda.12@sea.gob.cl;0.978636404965073;Servicio de Evaluación Ambiental (SEA);Rodrigo Roman;(61)222-7036;Lautaro Navarro  363;(61)222-7446
+JOSE LUIS;RIFFO;F;1975-12-31;123;jlriffo.12@sea.gob.cl;0.217214771546423;Servicio de Evaluación Ambiental (SEA);Rodrigo Roman;(61)222-7036;Lautaro Navarro  363;(61)222-7446
+Juan Carlos;Aguilar;Maldonado;1964-10-15;Ser_Edu*2012;juancarlos.aguilar@mineduc.cl;0.051380829885602;SEREMI Educación;juan Carlos Aguilar;(61)274-0226;Ignacio Carrera Pinto  1259;(061)274-0200
+Willife Conservation Society;WCS;WCS;2009-08-03;WCS*2012;bsaavedra@wcs.org;0.0919667039997876;Wildlife Conservation Society (WCS);Bárbara Saavedra;(61)261-3335;Balmaceda 586;(61)261-3334
+KARINA;BASTIDAS;T;1975-12-31;123;kbastidas.12@sea.gob.cl;0.759516571182758;Servicio de Evaluación Ambiental (SEA);Rodrigo Roman;(61)222-7036;Lautaro Navarro  363;(61)222-7446
+Fabiola ;Vigar;Escalante;1986-09-24;muninatales;fabiolavigar@muninatales.cl;0.647031300701201;Municipalidad de Natales;Pablo Vidal;(61)220-9500;Eberhard 457;61)220-9502
+Eduardo;Aguila;Perez;2000-01-01;Mun_Tdp*2012;comunicaciones@torresdelpayne.cl;0.604620432946831;Municipalidad de Torres del Payne;Hugo Ponce;(61)241-4190;Villa Cerro Castillo;(61)241-1411
+Tania;Ortiz;Figueroa;2009-08-03;INE*2012;tania.ortiz@ine.cl;0.703192409593612;Instituto Nacional de Estadísticas (INE);Andres Alvarado;(61)271-4550;Croacia 772;(61)271-4554
+Nelson;Moncada;Perez;2000-01-01;CONAF*2012;nelson.moncada@conaf.cl;0.554138922132552;Corporación Nacional Forestal (CONAF);Claudio Irarrazabal;(61)223-8554;Avda. Bulnes  0309 ;(61)223-8583
+Farlane;Christie;jkjl;2000-01-01;SERNATUR*2012;fchristie@sernatur.cl;0.0936571545898914;Servicio Nacional de Turismo (SERNATUR);Carolina Sanhueza;(61)222-5385;Lautaro Navarro  999;(61)224-1330
+Cecilia;Pérez;bbb;2017-10-03;vvv;cperez@subpesca.cl;0.423253835178912;Subsecretaría de Pesca;Cecilia Pérez;(61)222-3658;Av. Independencia Nº464;11
+Hernán;Pacheco;Perez;2000-01-01;IFOP*2012;hpacheco@ifop.cl;0.738332551438361;Instituto de Fomento Pesquero (IFOP);Hernan Pacheco;61)221-4750;Enrique Abello 0552;61)221-4750
+Sistema;Inf_Territorial;Seguimiento;1911-05-31;BORIES398;fabiolavigar@muninatales.cl;0.91353253275156;Municipalidad de Natales;Pablo Vidal;(61)220-9500;Eberhard 457;61)220-9502
+José;Ramírez;Peña;2000-01-01;Mun_Ver*2012;secplan@rioverde.cl;0.519909848924726;Municipalidad de Río Verde;José Miguel Canales;(61)231-1125;Río Verde s/n;(61)231-1137
+Felipe;Urbano;bb;2000-01-01;Mun_Pri*2012;chilecompra@muniprimavera.cl;0.650454617105424;Municipalidad de Primavera;Felipe Urbano;(61)234-5112;Arturo Prat 191 ;(61)234-5389
+Ariel;Collante;nn;2000-01-01;Mun_Por*2012;acollante@muniporvenir.cl;0.992997433058918;Municipalidad de Porvenir;Iván Sanchez;(61)258-0098;Bernardo Phillipi 173;(61)258-0170
+Daniel;Antunez;Perez;2000-01-01;ENAP2016;dantunezc@mag.enap.cl;0.688787563238293;Empresa Nacional del Petróleo (ENAP);Daniel Antunez;61)229-8386;José Nogueira 1101 ;61)229-8386
+Hernán;Álvarez;Bahamonde;2000-01-01;Mun_Tkl*2012;hernan.alvarez@municipalidadtimaukel.cl;0.980827298481017;Municipalidad de Timaukel;Carla Villarroel;(61)221-6349;Villa Cameron;(61)221-6349
+Unidad;Estudio;Seguimiento;2015-06-08;muninatales;estudiosyseguimiento@muninatales.cl;0.799383423291147;Municipalidad de Natales;Pablo Vidal;(61)220-9500;Eberhard 457;61)220-9502
+Maria;Godoy;Carrasco;2000-01-01;Mun_Cab*2016;mgodoy@imcabodehornos.cl;0.735491589643061;Municipalidad de Cabo de Hornos;Claudio López;(61)262-1449;Presidente Ibañez 02;(61)262-1018
